@@ -1,5 +1,5 @@
 #  Customer-Orders Analytics using PySpark
- This project demonstrates how to analyze customer behavior and spending using PySpark. It includes data preprocessing, aggregations, window functions, and joins on synthetic e-commerce data.
+ PySpark project to analyze customer behavior and spending from order data using joins, ranks & aggregation.
 
 ##  Project Structure
 
