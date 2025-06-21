@@ -4,11 +4,12 @@ This project demonstrates how to analyze customer behavior and spending using **
 
 ---
 ## 📁 Project Structure
-├── data/
-│ ├── customers.csv # Sample customer dataset
-│ └── orders.csv # Sample order dataset
-├── customer_order_analysis.ipynb # Main PySpark notebook
-├── README.md # Project overview
+project-root/
+├── data/  
+│ ├── customers.csv # Customer dataset with Indian entries  
+│ └── orders.csv # Orders dataset  
+├── customer_order_analysis.ipynb # Main PySpark analysis notebook  
+├── README.md # Project overview (this file)  
 
 ## 📊 Datasets Description
 
