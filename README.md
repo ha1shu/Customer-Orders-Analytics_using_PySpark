@@ -1,18 +1,19 @@
 #  Customer-Orders Analytics using PySpark
 
-This project demonstrates how to analyze customer behavior and spending using PySpark. It includes data preprocessing, aggregations, window functions, and joins on synthetic e-commerce data.
+ This project demonstrates how to analyze customer behavior and spending using PySpark. It includes data preprocessing, aggregations, window functions, and joins on synthetic e-commerce data.
 
 ##  Project Structure
+'''
+ ├── data/  
  
-├── data/  
-
-│ ├── customers.csv ( Customer dataset with Indian entries )
-
-│ └── orders.csv ( Orders dataset )  
-
-├── customer_order_analysis.ipynb (Main PySpark analysis notebook)  
-
-├── README.md # Project overview (this file)  
+ │ ├── customers.csv ( Customer dataset with Indian entries )
+ 
+ │ └── orders.csv ( Orders dataset )  
+ 
+ ├── customer_order_analysis.ipynb (Main PySpark analysis notebook)  
+ 
+ ├── README.md # Project overview (this file) 
+'''
 
 ##  Datasets Description
 
