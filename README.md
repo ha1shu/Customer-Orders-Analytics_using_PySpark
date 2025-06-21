@@ -1,9 +1,9 @@
-# 🧠 Customer-Orders Analytics using PySpark
+#  Customer-Orders Analytics using PySpark
 
 This project demonstrates how to analyze customer behavior and spending using **PySpark**. It includes data preprocessing, aggregations, window functions, and joins on synthetic e-commerce data.
 
 ---
-## 📁 Project Structure
+##  Project Structure
  
 ├── data/  
 
@@ -15,9 +15,9 @@ This project demonstrates how to analyze customer behavior and spending using **
 
 ├── README.md # Project overview (this file)  
 
-## 📊 Datasets Description
+##  Datasets Description
 
-### 🧑‍💼 Customers Table
+###  Customers Table
 
 | Column            | Description                         |
 |-------------------|-------------------------------------|
@@ -30,7 +30,7 @@ This project demonstrates how to analyze customer behavior and spending using **
 | email             | Customer email                      |
 | is_active         | Boolean flag (1 = active, 0 = inactive) |
 
-### 🛒 Orders Table
+###  Orders Table
 
 | Column       | Description                           |
 |--------------|---------------------------------------|
@@ -42,17 +42,17 @@ This project demonstrates how to analyze customer behavior and spending using **
 
 ---
 
-## 🔍 Analytics Performed
+##  Analytics Performed
 
-- 🧾 Count of orders per customer
-- 💸 Total spending per customer
-- 🏅 Customer ranking by total spend using `dense_rank()`
-- 🔗 Joined view of customer order count and total spend
-- 📊 Sorted customer insights by spending and order frequency
+-  Count of orders per customer
+-  Total spending per customer
+-  Customer ranking by total spend using `dense_rank()`
+-  Joined view of customer order count and total spend
+-  Sorted customer insights by spending and order frequency
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Apache Spark (PySpark)
 - Python 3
