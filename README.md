@@ -1,17 +1,7 @@
 #  Customer-Orders Analytics using PySpark
+
  PySpark project to analyze customer behavior and spending from order data using joins, ranks & aggregation.
 
-##  Project Structure
-
- ├── data/  
- 
- │ ├── customers.csv ( Customer dataset with Indian entries )
- 
- │ └── orders.csv ( Orders dataset )  
- 
- ├── customer_order_analysis.ipynb (Main PySpark analysis notebook)  
- 
- ├── README.md # Project overview (this file) 
 
 ##  Datasets Description
 
