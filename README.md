@@ -4,11 +4,11 @@ Analyze customer orders using PySpark with joins, aggregations, and window funct
 
 ## Project Structure
 
-├── data/
-│ ├── customers.csv # Customer dataset with Indian entries
-│ └── orders.csv # Orders dataset
-├── customer_order_analysis.ipynb # Main PySpark analysis notebook
-├── README.md # Project overview (this file)
+├── data/  
+│ ├── customers.csv # Customer dataset with Indian entries  
+│ └── orders.csv # Orders dataset  
+├── customer_order_analysis.ipynb # Main PySpark analysis notebook  
+├── README.md # Project overview (this file)  
 
 ...
 
