@@ -2,6 +2,15 @@
 
 Analyze customer orders using PySpark with joins, aggregations, and window functions to uncover spending patterns, order frequency, and customer rankings in an e-commerce-style dataset.
 
+## Project Structure
+
+├── data/
+│ ├── customers.csv # Customer dataset with Indian entries
+│ └── orders.csv # Orders dataset
+├── customer_order_analysis.ipynb # Main PySpark analysis notebook
+├── README.md # Project overview (this file)
+
+...
 
 ##  Datasets Description
 
